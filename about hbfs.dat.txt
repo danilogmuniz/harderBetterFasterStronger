@@ -1,0 +1,17 @@
+hbfs.dat.txt columns
+
+ID - individual numerical ID
+name - individual "name"
+species - species name
+sex - male or female
+cc - cephalothorax length (measure of body size)
+maT - mechanical advantage
+apodeme - apodeme area (measure of strength)
+sp.number - species numerical code
+sex.number - sex numerical code
+csize - claw (chelipod) centroid size
+sqapodeme - square rooted apodeme area
+center.cc - category centered cephalothorax length
+center.csize - category centered claw centroid size
+pc1 - claw shape 1st principal component
+pc2 - claw shape 2nd principal component
