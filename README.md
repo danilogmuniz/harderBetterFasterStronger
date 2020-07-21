@@ -18,11 +18,11 @@ run.analysis.r - script that loads the data and stan models and runs all analyse
 
 RData files contain all mcmc fits produced by run.analysis.r:
 
-  - hfds.fit.ap   - apodeme model (as a function of claw size)
-  - hfds.fit.apt  - apodeme model (as a function of body size)
-  - hfds.fit.cs   - claw size model 
-  - hfds.fit.maTL - mechanical advantage model
-  - hfds.fit.pca  - claw shape model
+  - hfbs.fit.ap   - apodeme model (as a function of claw size)
+  - hfbs.fit.apt  - apodeme model (as a function of body size)
+  - hfbs.fit.cs   - claw size model 
+  - hfbs.fit.maTL - mechanical advantage model
+  - hfbs.fit.pca  - claw shape model
 
 Other useful links:
 
