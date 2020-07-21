@@ -14,7 +14,7 @@ model.stan - stan model used in most analysis
 
 model.simple.stan - stan model used in the analysis of mechanical advantage
 
-run.analysis.r - script that loads the data and stan models and run all analysis
+run.analysis.r - script that loads the data and stan models and runs all analyses
 
 RData files contain all mcmc fits produced by run.analysis.r:
 
