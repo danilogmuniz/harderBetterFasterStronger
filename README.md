@@ -1,5 +1,5 @@
 # harderBetterFasterStronger
-Data and scripts of the manuscript "Harder, better, faster, stronger: Weapon size is more sexually dimorphic than weapon biomechanical components in two freshwater anomuran species", published on the Journal of Morphology
+Data and analysis scripts of the manuscript "Harder, better, faster, stronger: Weapon size is more sexually dimorphic than weapon biomechanical components in two freshwater anomuran species", published on the Journal of Morphology. Models are written in the stan modelling language and the rest is written in R. The only package needed to run the analysis is rstan.
 
 Link to the paper
 https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.21234
@@ -23,3 +23,16 @@ RData files contain all mcmc fits produced by run.analysis.r:
   - hfds.fit.cs   - claw size model 
   - hfds.fit.maTL - mechanical advantage model
   - hfds.fit.pca  - claw shape model
+
+Other useful links:
+
+about the stan modelling language
+https://mc-stan.org
+https://mc-stan.org/docs/2_23/stan-users-guide-2_23.pdf
+
+about R
+https://www.r-project.org
+https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+
+about package rstan
+https://cran.r-project.org/web/packages/rstan/index.html
